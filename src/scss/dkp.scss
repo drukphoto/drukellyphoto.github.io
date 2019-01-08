@@ -1,0 +1,17 @@
+html,
+body {
+  align-content: center;
+  background-color: #e5e5e5;
+  color: #667;
+  display: flex;
+  flex-direction: column;
+  font: 1rem/1 'Muli', sans-serif;
+  height: 100%;
+  justify-content: center;
+  letter-spacing: .5pt;
+  text-align: center;
+  text-transform: uppercase;
+}
+small {
+  display: block;
+}
